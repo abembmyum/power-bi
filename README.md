@@ -9,7 +9,7 @@ https://www.investopedia.com/terms/c/churnrate.asp
 
 The simplified formula for churn is to divide customers lost by the total number of customers. If we have a total of 100 customers in a certain period, and 10 end up leaving, we have a churn rate of 10%. There are multiple methods to calculate churn, and depending on the industry, it might make sense for a company to slightly alter the formula. A traditional e-commerce platform might consider a certain customer a churner if he or she hasn't made a purchase in the last 12 months.
 
-## Steos:
+## Steps:
 1. Exploratory analysis
 2. Investigating Churn patterns
 3. Visualization
